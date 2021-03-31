@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="text2 pt-15 pb-15">
-    <div class="titulo text-h2 text-center font-weight-medium pb-5">LOCALIZACIÓN</div>
+    <div class="titulo text-h3 text-center font-weight-medium pb-5">LOCALIZACIÓN</div>
     <v-row>
         <v-col class="d-flex justify-center align-center">
         <iframe
