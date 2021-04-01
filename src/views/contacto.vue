@@ -61,7 +61,7 @@ export default {};
   color: #000000;
 }
 .titulo {
-  color: #f0a500;
+  color: #000000;
   font-family: "Bebas Neue", cursive;
 }
 .subtitulo {

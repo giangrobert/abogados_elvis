@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-app-bar
-      color="#cf7500"
+      color="#000"
       dark
       shrink-on-scroll
       prominent
@@ -23,7 +23,7 @@
           lazy-src="../src/assets/img/logoWhite.png"
           max-height="40"
           max-width="60"
-          src="../src/assets/img/logoBlack.png"
+          src="../src/assets/img/logoWhite.png"
         ></v-img>
 
       <v-app-bar-title>
