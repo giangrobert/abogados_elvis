@@ -1,14 +1,14 @@
 <template>
   <v-app>
     <v-app-bar
-      color="#000"
+      color="#14213d"
       dark
       shrink-on-scroll
       prominent
-      src="https://www.beautymarket.es/peluqueria/fotos/12010_not_bmp.jpg"
+      src="https://www.soycest.mx/hs-fs/hubfs/CEST_do%CC%81nde%20puede%20trabajar%20un%20abogado.jpeg?width=744&name=CEST_do%CC%81nde%20puede%20trabajar%20un%20abogado.jpeg"
       fade-img-on-scroll
       scroll-target
-      scroll-threshold="500"
+      scroll-threshold="1000"
       app
     >
       <template v-slot:img="{ props }">
@@ -20,14 +20,14 @@
 
       <v-img
       class="mr-5"
-          lazy-src="../src/assets/img/logoWhite.png"
-          max-height="40"
-          max-width="60"
+          lazy-src="../src/assets/img/logoBlack.png"
+          max-height="100"
+          max-width="80"
           src="../src/assets/img/logoWhite.png"
         ></v-img>
 
-      <v-app-bar-title>
-      BARBESHOP-BAR</v-app-bar-title>
+      <v-app-bar-title class="te">
+      BLOG @Elvis</v-app-bar-title>
 
       <v-spacer></v-spacer>
 
@@ -106,3 +106,10 @@ export default {
   }),
 };
 </script>
+
+<style scoped>
+.te{
+  color: rgba(255, 255, 255, 0.774);
+
+}
+</style>

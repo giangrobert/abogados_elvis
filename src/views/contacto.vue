@@ -5,7 +5,7 @@
     <v-col cols="12" sm="8">
        <div >
       <div class="titulo text-h2 text-center font-weight-medium pb-5">CONTACTO</div>
-      <v-card class="mx-auto" dark>
+      <v-card class="mx-auto cad" dark>
         <v-card-title>
           <v-icon large left> mdi-account </v-icon>
           <span class="title font-weight-light">Contactarme</span>
@@ -33,7 +33,7 @@
             </v-list-item-avatar>
 
             <v-list-item-content>
-              <v-list-item-title>Evan You</v-list-item-title>
+              <v-list-item-title>@Elvis</v-list-item-title>
             </v-list-item-content>
 
             <v-row align="center" justify="end">
@@ -67,5 +67,9 @@ export default {};
 .subtitulo {
   color: #000000;
   font-family: "Montserrat", sans-serif;
+}
+.cad{
+  background-color: #14213dce;
+  color: white;
 }
 </style>

@@ -19,7 +19,7 @@
         </v-card>
       </v-col>
       <v-col class="img d-flex align-center">
-        <v-img class="img"  height="auto" width="500" src="https://www.nacionrex.com/__export/1604504218788/sites/debate/img/2020/11/04/bts-jungkook-foto-conceptual-individual-be-comeback-bts-teaser_crop1604503202753.jpg_423682103.jpg">
+        <v-img class="img"  height="auto" width="500" src="https://blogs.ucontinental.edu.pe/wp-content/uploads/2016/07/disfruta.jpg">
         </v-img>
       </v-col>
       <v-col cols="0" sm="2"></v-col>

@@ -29,16 +29,13 @@
     <div class="text2 pt-15 pb-15">
       <v-row>
         <v-col class="d-flex justify-end align-center" cols="12" sm="5">
-          <img src="../assets/img/barberia.png" width="300" alt="" />
+          <img src="../assets/img/abogados.png" width="300" alt="" />
         </v-col>
         <v-col class="d-flex align-center">
           <div>
-            <div class="titulo text-h3 pb-3 font-weight-medium">THE MENS SAID</div>
+            <div class="titulo text-h3 pb-3 font-weight-medium">Abogados</div>
             <div class="subtitulo text-p pl-10 pr-10">
-              Ubicada en Miami, Papi Blendzz es su Colorista y Barbero, brindando todo
-              tipo de servicios modernos y creativos en peluquería. Orgulloso de ofrecer a
-              mis clientes una amplia gama de peinados, tratamientos, looks y productos
-              útiles que reflejan su individualidad y gusto personal. ¡Pasa por aquí hoy!
+              Un abogado es al mismo tiempo un oficial del sistema jurídico, un representante de clientes y un ciudadano público con una responsabilidad por la calidad de la justicia. Está capacitado para explicar e interpretar la ley para su cliente, manejar asuntos legales, y para comparecer ante los tribunales.
             </div>
             <v-btn class="mt-10" text outlined dark>
               <v-icon>mdi-cellphone</v-icon>
@@ -101,7 +98,7 @@ export default {
   margin-top: -40px;
 }
 .text2 {
-  background: #000;
+  background: #14213d;
   color: #f4f4f4;
 }
 .titulo {

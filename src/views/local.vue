@@ -26,7 +26,7 @@ export default {
 </script>
 <style scoped>
 .text2 {
-  background: #000;
+  background: rgba(0, 0, 0, 0.114);
   color: #f4f4f4;
 }
 .titulo {
